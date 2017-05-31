@@ -1,4 +1,4 @@
 # RepoFromMay24
 repo made for pracc
 
-and again - a conflict?
+I thought we already resolved that.
