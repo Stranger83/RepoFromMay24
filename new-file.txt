@@ -1,1 +1,1 @@
-a new file for the new branch
+just a new file editing with Git Bash
